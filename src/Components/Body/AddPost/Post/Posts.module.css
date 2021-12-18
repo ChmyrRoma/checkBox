@@ -1,0 +1,7 @@
+.post {
+    display: flex;
+}
+
+.posts {
+    text-decoration: line-through;
+}

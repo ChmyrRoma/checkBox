@@ -1,0 +1,15 @@
+.newPost {
+    display: flex;
+    justify-content: space-around;
+}
+
+.createNewPost {
+    width: 50px;
+    margin-top: 25px;
+    zoom: 1.2;
+}
+
+.addPost {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    background-color: black;
+}
+
+.findTask {
+    display: flex;
+    margin-right: 35%;
+}
+
+.button {
+    margin-left: 20px;
+    height: 30px;
+    width: 50px;
+    border-radius: 30px;
+    outline: none;
+}
+
+
+
+
